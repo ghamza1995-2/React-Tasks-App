@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Rake it up",
+      "day": "Jun 9th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Turn up",
+      "day": "Jun 10th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Vibeology 101",
+      "day": "Jun 15th at 4:00PM",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
